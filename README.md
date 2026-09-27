@@ -26,7 +26,9 @@
 - 🎯 **Vertical pill thumb** — a rounded vertical bar instead of the classic circular knob
 - ⚡ **Lightweight** — pure QML, no Python, no external daemons
 
-## 📸 Preview
+# 📸 Preview
+
+## Classic Style
 
 <img width="275" height="400" alt="изображение" src="https://github.com/user-attachments/assets/b3c171dd-256e-434e-b0f8-ccdce0c06e21" />
 <img width="273" height="400" alt="изображение" src="https://github.com/user-attachments/assets/44486115-7fb8-42a2-984e-9efef6baec0c" />
@@ -36,6 +38,11 @@
 ## Plasma Style
 <img width="253" height="394" alt="изображение" src="https://github.com/user-attachments/assets/4ca5a5d4-a609-4184-8a6d-4804aaedbbf6" />
 <img width="253" height="395" alt="изображение" src="https://github.com/user-attachments/assets/addd1ab2-8340-4eef-9209-badfdd498f2e" />
+
+## Hybrid Style
+
+<img width="261" height="407" alt="изображение" src="https://github.com/user-attachments/assets/1a9be86d-63bc-47f4-b5cc-e270ce2d697f" />
+<img width="263" height="408" alt="изображение" src="https://github.com/user-attachments/assets/639e8bd0-ce3b-416d-849d-45747d9b644a" />
 
 
 
