@@ -28,7 +28,7 @@
 
 # 📸 Preview
 
-## Classic Style
+## Modern Style
 
 <img width="275" height="400" alt="изображение" src="https://github.com/user-attachments/assets/b3c171dd-256e-434e-b0f8-ccdce0c06e21" />
 <img width="273" height="400" alt="изображение" src="https://github.com/user-attachments/assets/44486115-7fb8-42a2-984e-9efef6baec0c" />
