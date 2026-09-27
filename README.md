@@ -44,6 +44,9 @@
 <img width="261" height="407" alt="изображение" src="https://github.com/user-attachments/assets/1a9be86d-63bc-47f4-b5cc-e270ce2d697f" />
 <img width="263" height="408" alt="изображение" src="https://github.com/user-attachments/assets/639e8bd0-ce3b-416d-849d-45747d9b644a" />
 
+## Hybrid + Modern Seekbar
+<img width="256" height="403" alt="изображение" src="https://github.com/user-attachments/assets/671a519d-af5d-4c92-9cdb-940e0e08916d" />
+<img width="258" height="402" alt="изображение" src="https://github.com/user-attachments/assets/f7629bf6-7ee6-4fa3-b517-c18ca33844ce" />
 
 
 
