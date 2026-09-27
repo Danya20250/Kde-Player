@@ -33,6 +33,10 @@
 <img width="272" height="399" alt="изображение" src="https://github.com/user-attachments/assets/813de66b-b151-44ca-8e95-51f25c772a47" />
 <img width="271" height="396" alt="Запись экрана_20260918_233656(1)" src="https://github.com/user-attachments/assets/b64709cf-2021-4f2a-a242-17c1a51b95d2" />
 
+## Plasma Style
+<img width="253" height="394" alt="изображение" src="https://github.com/user-attachments/assets/4ca5a5d4-a609-4184-8a6d-4804aaedbbf6" />
+<img width="253" height="395" alt="изображение" src="https://github.com/user-attachments/assets/addd1ab2-8340-4eef-9209-badfdd498f2e" />
+
 
 
 
